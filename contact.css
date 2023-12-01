@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+nav{
+    background-color: rgb(238, 85, 85);
+    color: rgb(6, 28, 46);
+    text-align: justify;
+    padding: 50px;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    justify-content: right;
+}
+nav a{
+    text-decoration: none;
+    color: palegreen;
+}
+body{
+    background:conic-gradient(rgb(241, 10, 145), rgb(43, 231, 5));
+}
+
+
+

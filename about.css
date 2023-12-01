@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+nav{
+    background-color: rgb(118, 116, 143);
+    color: rgb(228, 195, 8);
+    text-align: center;
+    padding: 50px;
+    font-size: x-large;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    justify-content: right;
+}
+nav a{
+    text-decoration: none;
+    color: goldenrod;
+}
+p{
+    
+    color: solid black;
+}
+body{
+    background:linear-gradient(rgb(241, 10, 145), rgb(43, 231, 5));
+}

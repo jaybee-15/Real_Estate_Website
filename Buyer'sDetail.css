@@ -1,0 +1,24 @@
+*{
+    background-color: aquamarine;
+    color: darkblue;
+    padding: 1px;
+    margin: 10px;
+}
+p{
+    color: crimson;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    justify-content: right;
+}
+nav a{
+    text-decoration: none;
+    color: cornflowerblue;
+}
+body{
+    background: repeating-linear-gradient(goldenrod, blue);
+    color: rgb(15, 25, 26);
+}
